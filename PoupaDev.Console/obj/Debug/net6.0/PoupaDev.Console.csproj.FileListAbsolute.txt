@@ -1,0 +1,15 @@
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\bin\Debug\net6.0\PoupaDev.Console.exe
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\bin\Debug\net6.0\PoupaDev.Console.deps.json
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\bin\Debug\net6.0\PoupaDev.Console.runtimeconfig.json
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\bin\Debug\net6.0\PoupaDev.Console.dll
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\bin\Debug\net6.0\PoupaDev.Console.pdb
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.csproj.AssemblyReference.cache
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.AssemblyInfoInputs.cache
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.AssemblyInfo.cs
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.csproj.CoreCompileInputs.cache
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.dll
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\obj\Debug\net6.0\refint\PoupaDev.Console.dll
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.pdb
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.genruntimeconfig.cache
+C:\estudos\web_developer\projetos\projetos_remotos\Jornada-NET\PoupaDev.Console\obj\Debug\net6.0\ref\PoupaDev.Console.dll
