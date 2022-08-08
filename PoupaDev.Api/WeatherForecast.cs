@@ -1,4 +1,4 @@
-namespace PoupaDev.Api;
+namespace PoupaDev.API;
 
 public class WeatherForecast
 {
