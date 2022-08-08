@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace PoupaDev.Api.Controllers;
+namespace PoupaDev.API.Controllers;
 
 [ApiController]
 [Route("[controller]")]

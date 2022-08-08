@@ -1,23 +1,25 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using PoupaDev.API.Enums;
 
-namespace PoupaDev.Api.Entities {
-    using PoupaDev.Api.Enums;
+namespace PoupaDev.API.Entities
+{
     public class Operacao
-    {
-        public Operacao(decimal valor, TipoOperacao tipo)
-        {
-            id = new Random().Next(0, 1000);
-            Valor = valor;
-            Tipo = tipo;
-            this.idObjetivo = idObjetivo;
-        }
-
-        public int id { get; private set; }
-        public decimal Valor { get; private set; }
-        public TipoOperacao Tipo { get; private set; }
-        public int idObjetivo { get; private set; }
-    }
+   {
+       public Operacao(decimal valor, TipoOperacao tipo)
+       {
+           Id = new Random().Next(1, 1000);
+           Valor = valor;
+           Tipo = tipo;
+ 
+           DataOperacao = DateTime.Now;
+       }
+ 
+       public int Id { get; private set; }
+       public decimal Valor { get; private set; }
+       public TipoOperacao Tipo { get; private set; }
+       public DateTime DataOperacao { get; set; }
+   }
 }
