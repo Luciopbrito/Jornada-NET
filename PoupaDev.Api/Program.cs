@@ -1,9 +1,14 @@
+using Microsoft.EntityFrameworkCore;
 using PoupaDev.API.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddSingleton<PoupaDevContext>();
+var connectionString = builder.Configuration.GetConnectionString(""); 
+
+builder.Services.AddDbContext<PoupaDevDbContext>(o => {
+    o.UseInMemoryDatabase("PoupaDevDb");
+});
 
 
 builder.Services.AddControllers();
