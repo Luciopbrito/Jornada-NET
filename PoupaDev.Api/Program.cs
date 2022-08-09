@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using PoupaDev.API.Jobs;
 using PoupaDev.API.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,7 @@ builder.Services.AddDbContext<PoupaDevDbContext>(o => {
     o.UseSqlServer(connectionString);
 });
 
+builder.Services.AddHostedService<RendimentoAutomaticoJob>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
